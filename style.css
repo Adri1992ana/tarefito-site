@@ -46,6 +46,10 @@ body {
   line-height: 1;
   letter-spacing: -0.5px;
 }
+.nav-brand img {
+  height: 36px;
+  width: auto;
+}
 .nav-t    { color: #22c55e; }
 .nav-rest {
   background: linear-gradient(90deg, #a78bfa, #818cf8);
